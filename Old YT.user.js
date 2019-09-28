@@ -7,6 +7,8 @@
 // @homepageURL https://github.com/Akethorpe/Old-YT
 // @website https://github.com/Akethorpe/Old-YT
 // @source https://github.com/Akethorpe/Old-YT
+// @version 0.0.1
+// @description Restores Old YT theme
 // @grant none
 // @run-at document-start
 // ==/UserScript==
